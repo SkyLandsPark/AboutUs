@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkyLandsPark/AboutUs/main/logo.png" width="300" height="300" />
+</p>
+
 # 🎢 SkyLands 🎢
 A upcoming Minecraft Amusement Park
 
